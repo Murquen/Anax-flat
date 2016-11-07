@@ -10,7 +10,7 @@ return [
         // Use for styling the menu
         "wrapper" => null,
         "class" => "rm-default rm-desktop",
-     
+
         // Here comes the menu structure
         "items" => [
 
@@ -22,9 +22,15 @@ return [
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om denna webbsida")
+            ],
+
+            "test" => [
+                "text"  => t("Test"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("Test link")
             ],
         ],
     ],
@@ -39,7 +45,7 @@ return [
         "id" => "rm-menu",
         "wrapper" => null,
         "class" => "rm-default rm-mobile",
-     
+
         // Here comes the menu structure
         "items" => [
 

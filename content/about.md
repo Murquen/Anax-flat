@@ -1,10 +1,11 @@
-About this site
+Om denna sidan
 ==============================================
 
-The primary focus of this site is to:
+Denna kursen är inte den lättaste att komma igång med.
+I mitt tycke då.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+![Fin bild](img\success.png)
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Source koden för denna sidan finns på GitHub under [github: Murquen](https://github.com/Murquen/Anax-flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Denna sida är gjord av Joacim Bogsveen (joacim-97@hotmail.com).

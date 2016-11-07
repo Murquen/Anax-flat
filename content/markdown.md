@@ -24,15 +24,15 @@ Linking to image sources works in the same manner as linking to other pages. Ana
 Here are some samples on how you can link to a image using Markdown or HTML.
 
 ```text
-![alt text](img/dbwebbisar.jpg)
-<img src="img/dbwebbisar.jpg" alt="alt text">
+![alt text](img/headerBild.jpg)
+<img src="img/headerBild.jpg" alt="alt text">
 ```
 
 This is the outcome of the two images.
 
-![alt text](img/dbwebbisar.jpg)
+![alt text](img/headerBild.jpg)
 
-<img src="img/dbwebbisar.jpg" alt="alt text">
+<img src="img/headerBild.jpg" alt="alt text">
 
 
 

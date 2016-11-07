@@ -1,4 +1,2 @@
-Byline text
-Byline text
-Byline text
-Byline text
+![Byline bild](\img\jagLiten.jpg)
+Joacim Bogsveen studerar på BTH.
